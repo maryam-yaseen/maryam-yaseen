@@ -66,10 +66,8 @@ A responsive wellness e-commerce website developed using Next.js and Tailwind CS
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maryam-yaseen&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-yaseen&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
