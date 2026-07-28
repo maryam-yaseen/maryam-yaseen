@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maryam Yaseen</h1>
 
-<!--
-**maryam-yaseen/maryam-yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Android+App+Developer+Intern;Flutter+Developer;Building+Real-World+Mobile+Apps;COMSATS+University+Islamabad" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Software Engineering Student | Android App Developer Intern | Flutter Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 **BS Software Engineering** student at **COMSATS University Islamabad, Attock Campus**
+
+📱 **Android App Developer Intern** at **Arch Technologies**
+
+💙 Passionate about Android development, Flutter, and building modern mobile applications.
+
+🌱 Currently improving my skills in:
+- Flutter
+- Android Development
+- Python
+- Object-Oriented Programming (OOP)
+- Database Systems (SQL)
+
+📫 **Email:** **mariamyaseen15@gmail.com**
+
+🌐 **LinkedIn:**  
+https://www.linkedin.com/in/maryam-yaseen-230aa93b3/
+
+---
+
+## 🚀 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,mysql,androidstudio,vscode&perline=8" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 CollegeAlert
+Android application developed to help students manage academic events, schedules, and announcements with add, edit, delete, and reminder functionality.
+
+### 🛒 ShopSphere
+A Flutter-based mobile e-commerce application featuring product browsing, shopping cart management, and a seamless checkout experience.
+
+### 🌿 Relax
+A responsive wellness e-commerce website developed using Next.js and Tailwind CSS.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam-yaseen&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-yaseen&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maryam-yaseen&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/maryam-yaseen-230aa93b3/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mariamyaseen15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+> *"Building today's apps while learning tomorrow's technologies."* 🚀
