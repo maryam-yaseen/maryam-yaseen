@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Software Engineering Student | Android App Developer Intern | Flutter Developer
+Software Engineering Student | Android App Developer Intern 
 </h3>
 
 ---
@@ -22,6 +22,7 @@ Software Engineering Student | Android App Developer Intern | Flutter Developer
 - Flutter
 - Android Development
 - Python
+- Java
 - Object-Oriented Programming (OOP)
 - Database Systems (SQL)
 
@@ -56,9 +57,9 @@ A responsive wellness e-commerce website developed using Next.js and Tailwind CS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam-yaseen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-yaseen&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maryam-yaseen&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maryam-yaseen&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
